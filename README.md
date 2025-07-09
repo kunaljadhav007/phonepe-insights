@@ -104,14 +104,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard Page         | AI Insights Report           |
-|------------------------|------------------------------|
-| ![Dashboard](assets/screenshot_dashboard.png) | ![AI Report](assets/screenshot_ai.png) |
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -121,7 +113,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## 🙋‍♂️ Author
 
 **Kunal Jadhav**  
-Connect on [LinkedIn](https://www.linkedin.com/in/kunal-jadhav/) | GitHub: [@kunaljv](https://github.com/kunaljv)
+Connect on [LinkedIn](https://www.linkedin.com/in/kunaljadhav007/) | GitHub: [@kunaljv](https://github.com/kunaljadhav007)
 
 ---
 
