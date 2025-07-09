@@ -1,0 +1,16 @@
+# Core libraries
+streamlit==1.35.0
+pandas==2.2.2
+plotly==5.22.0
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Database connector (for MySQL)
+mysql-connector-python==8.4.0
+
+# PDF generation
+fpdf==1.7.2
+
+# Optional: image handling
+Pillow==10.3.0
+
